@@ -136,10 +136,7 @@
                 "HackerRank": {
                     "Username": "KAMESWARA LAXMI KOUSALYA CHINTHA",
                     "Badges": [
-                        {
-                            "name": "Problem Solving",
-                            "stars": 3
-                        },
+                        
                         {
                             "name": "Java",
                             "stars": 5
@@ -147,11 +144,8 @@
                         {
                             "name": "Python",
                             "stars": 3
-                        },
-                        {
-                            "name": "Days of Code",
-                            "stars": 2
                         }
+                        
                     ],
                     "Certifications": [
                         "Certificate: Java (Basic)"
@@ -829,10 +823,7 @@
                 "HackerRank": {
                     "Username": "Sanjana Singineedi",
                     "Badges": [
-                        {
-                            "name": "Problem Solving",
-                            "stars": 3
-                        },
+                       
                         {
                             "name": "CPP",
                             "stars": 5
@@ -845,10 +836,7 @@
                             "name": "Python",
                             "stars": 5
                         },
-                        {
-                            "name": "Days of Code",
-                            "stars": 5
-                        },
+                        
                         {
                             "name": "Sql",
                             "stars": 1
@@ -968,10 +956,7 @@
                             "name": "Python",
                             "stars": 5
                         },
-                        {
-                            "name": "Days of JS",
-                            "stars": 3
-                        },
+                        
                         {
                             "name": "C language",
                             "stars": 3
@@ -1099,10 +1084,7 @@
                 "HackerRank": {
                     "Username": "Asritha Tirumalaraju",
                     "Badges": [
-                        {
-                            "name": "Problem Solving",
-                            "stars": 1
-                        },
+                        
                         {
                             "name": "Java",
                             "stars": 5
@@ -1111,10 +1093,7 @@
                             "name": "Python",
                             "stars": 4
                         },
-                        {
-                            "name": "Days of Code",
-                            "stars": 1
-                        },
+                        
                         {
                             "name": "C language",
                             "stars": 1
