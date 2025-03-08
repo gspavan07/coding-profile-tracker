@@ -8,21 +8,22 @@ const StdProfile = ({ selectedStudent, onClick }) => {
   };
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-[#00000063]">
-      <div className="bg-gray-800 flex flex-col justify-center items-center text-white p-6 rounded-lg w-96">
-        <h2 className="text-xl font-bold mb-2 text-center">
+      <div className="bg-gray-800 flex flex-col justify-center items-center text-white p-6 rounded-lg min-w-96 max-w-3xl">
+      <h2 className="text-xl font-bold mb-2 text-center underline">
           {selectedStudent.name}
-        </h2>
+        </h2> 
         <p>
           {selectedStudent.roll} ({selectedStudent.branch})
         </p>
         <img
           src="img.jpg"
           alt={selectedStudent.name}
-          className="w-40 h-40 object-cover rounded-full mb-4"
+          className="w-40 h-40 object-cover rounded-full mb-4 "
         />
-        <div className="w-full">
+        
+        <div className="w-full flex flex-1/3 un">
           <div>
-            <p>
+            <p className="underline">
               <strong>GeekForGeeks</strong>
             </p>
             <div className="px-5">
@@ -46,7 +47,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
             </div>
           </div>
           <div className={selectedStudent.codechef.Username ? "" : "hidden"}>
-            <p>
+            <p className="underline">
               <strong>CodeChef</strong>
             </p>
             <div className="px-5">
@@ -65,7 +66,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
             </div>
           </div>
           <div className={selectedStudent.codechef.Username ? "" : "hidden"}>
-            <p>
+            <p className="underline">
               <strong> HackerRank</strong>
             </p>
             <div className="px-5">

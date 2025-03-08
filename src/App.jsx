@@ -78,8 +78,8 @@ function App() {
             <h2 className="text-xl font-semibold mb-2">{title}</h2>
             <ul>
               {list.map((student, index) => (
-                <li key={index} className="border-b border-gray-600 p-2">
-                  {student.name} ({student.performance.toFixed(1)})
+                <li key={index} onClick={() => setSelectedStudent(student)} className="border-b border-gray-600 p-2 cursor-pointer">
+                  {student.roll} ({student.performance.toFixed(1)})
                 </li>
               ))}
             </ul>
