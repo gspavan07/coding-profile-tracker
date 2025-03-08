@@ -1,17 +1,13 @@
 import React from "react";
+import { extractRating } from "../lib/utils";
 
 const StdProfile = ({ selectedStudent, onClick }) => {
-  const extractRating = (rating) => {
-    if (!rating || typeof rating !== "string") return 0; // Handle undefined/null values
-    const match = rating.match(/\d+/); // Extract only numbers
-    return match ? parseInt(match[0], 10) : 0; // Return number or 0 if not found
-  };
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-[#00000063]">
       <div className="bg-gray-800 flex flex-col justify-center items-center text-white p-6 rounded-lg min-w-96 max-w-3xl">
-      <h2 className="text-xl font-bold mb-2 text-center underline">
+        <h2 className="text-xl font-bold mb-2 text-center underline">
           {selectedStudent.name}
-        </h2> 
+        </h2>
         <p>
           {selectedStudent.roll} ({selectedStudent.branch})
         </p>
@@ -20,7 +16,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
           alt={selectedStudent.name}
           className="w-40 h-40 object-cover rounded-full mb-4 "
         />
-        
+
         <div className="w-full flex flex-1/3 un">
           <div>
             <p className="underline">
