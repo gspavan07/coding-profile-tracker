@@ -55,7 +55,7 @@ function App() {
   // Function to cycle sorting order: No Sorting → Ascending → Descending → No Sorting
   const toggleSortOrder = () => {
     setSortOrder((prevOrder) =>
-      prevOrder === null ? "asc" : prevOrder === "asc" ? "desc" : null
+      prevOrder === null ? "desc" : prevOrder === "desc" ? "asc" : null
     );
   };
 
