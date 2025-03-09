@@ -1,1215 +1,1761 @@
 {
-    "Profiles": {
-        "22A91A6174": {
-            "Name": "B Satya Ganesh",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6174.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "boddetisatlsag",
-                    "Coding Score": "48",
-                    "Problems Solved": "13",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Satya ganesh Boddeti",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+  "Profiles": {
+    "22A91A61E8": {
+      "Name": "DIVYA EELI",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61E8.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "divi25715",
+          "Coding Score": "649",
+          "Problems Solved": "328",
+          "Problems by Difficulty": {
+            "Easy": 144,
+            "Medium": 94,
+            "Hard": 8,
+            "Total": 246
+          },
+          "Total_Score": 356
         },
-        "22A91A6175": {
-            "Name": "Boddu Surya Arjun Devi Vara Prasad",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6175.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "bsuryau9tx",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "Username": "suryaarjun",
-                    "Star": "1\u2605",
-                    "Rating": "472?i\n    Provisional Rating, click to know more"
-                },
-                "HackerRank": {
-                    "Username": "boddu surya arjun devi vara prasad",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 3
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "CodeChef": {
+          "Username": "Eeli Divya",
+          "Star": "1\u2605",
+          "Rating": "1129",
+          "Contests Participated": 31,
+          "Total_Score": 62
         },
-        "22A91A6176": {
-            "Name": "Boppudi Dinesh",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6176.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "dineshbo7lqa",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Dinesh Boppudi",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "LeetCode": {
+          "Username": "Eeli_Divya",
+          "Problems": {
+            "Easy": 210,
+            "Medium": 152,
+            "Hard": 12,
+            "Total": 374
+          },
+          "Total_Score": 580,
+          "Contests Attended": 15,
+          "Rating": 1194.203
         },
-        "22A91A6177": {
-            "Name": "Chinta Vicky",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6177.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "chvickrbnz",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "ch Vicky",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 3
-                        }
-                    ],
-                    "Certifications": []
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 3
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 2
+            },
+            {
+              "name": "Sql",
+              "stars": 3
+            },
+            {
+              "name": "C language",
+              "stars": 5
             }
+          ],
+          "Certifications": [],
+          "Total_Score": 21
         },
-        "22A91A6178": {
-            "Name": "Chintha Kameswara Laxmi Kousalya",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6178.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "kousalyar2f9",
-                    "Coding Score": "128",
-                    "Problems Solved": "53",
-                    "Rating": "1538"
-                },
-                "CodeChef": {
-                    "Username": "kousalya07",
-                    "Star": "1\u2605",
-                    "Rating": "1383"
-                },
-                "HackerRank": {
-                    "Username": "KAMESWARA LAXMI KOUSALYA CHINTHA",
-                    "Badges": [
-                        
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 3
-                        }
-                        
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)"
-                    ]
-                }
-            }
+        "Total_Score": 1019
+      }
+    },
+    "22A91A6194": {
+      "Name": "K.S.V.S SAHITHI",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6194.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "sahithidhnjot",
+          "Coding Score": "634",
+          "Problems Solved": "291",
+          "Problems by Difficulty": {
+            "Easy": 121,
+            "Medium": 78,
+            "Hard": 4,
+            "Total": 203
+          },
+          "Total_Score": 289
         },
-        "22A91A6179": {
-            "Name": "Chippada Snehalatha",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6179.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "sneha1604",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "Username": "Sneha Latha",
-                    "Star": "1\u2605",
-                    "Rating": "620?i\n    Provisional Rating, click to know more"
-                },
-                "HackerRank": {
-                    "Username": "snehalatha chippada",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 1
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "CodeChef": {
+          "Username": "sahithidhanamj",
+          "Star": "1\u2605",
+          "Rating": "1162",
+          "Contests Participated": 31,
+          "Total_Score": 62
         },
-        "22A91A6180": {
-            "Name": "Anil Dunna",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6180.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "anildun2fho",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Anil Dunna",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "CPP",
+              "stars": 5
+            },
+            {
+              "name": "Java",
+              "stars": 5
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of Code",
+              "stars": 5
+            },
+            {
+              "name": "C language",
+              "stars": 4
             }
+          ],
+          "Certifications": [],
+          "Total_Score": 27
         },
-        "22A91A6182": {
-            "Name": "Gollapalli S V V Pavan",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6182.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "gollapallishn85u",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "Username": "pavan_69",
-                    "Star": "1\u2605",
-                    "Rating": "824?i\n    Provisional Rating, click to know more"
-                },
-                "HackerRank": {
-                    "Username": "Pavan G",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 1
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)"
-                    ]
-                }
-            }
+        "LeetCode": {
+          "Username": "sahithidhanamjay",
+          "Problems": {
+            "Easy": 333,
+            "Medium": 231,
+            "Hard": 20,
+            "Total": 584
+          },
+          "Total_Score": 943,
+          "Contests Attended": 44,
+          "Rating": 1271.308
         },
-        "22A91A6184": {
-            "Name": "Guthula Nagaraju",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6184.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "guthulanagasfr",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "Username": "G NAGA RAJU",
-                    "Star": "1\u2605",
-                    "Rating": "814?i\n    Provisional Rating, click to know more"
-                },
-                "HackerRank": {
-                    "Username": "G NAGA RAJU nagaraju",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "Total_Score": 1321
+      }
+    },
+    "22A91A61I8": {
+      "Name": "VENKATA SIRISHA VADUSULA",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61I8.jpg",
+      "Profiles": {
+        "CodeChef": {
+          "Username": "Venkata Sirisha Vadusula",
+          "Star": "1\u2605",
+          "Rating": "1144?i\n    Provisional Rating, click to know more",
+          "Contests Participated": 3,
+          "Total_Score": 6
         },
-        "22A91A6185": {
-            "Name": "Jagatha V V Sri Surya",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6185.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "jvssuryaohcr",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "J v s surya Jagatha",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Sql",
-                            "stars": 2
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "GeeksForGeeks": {
+          "Username": "sirishavcqq",
+          "Coding Score": "46",
+          "Problems Solved": "18",
+          "Problems by Difficulty": {
+            "Easy": 10,
+            "Medium": 6,
+            "Hard": 0,
+            "Total": 16
+          },
+          "Total_Score": 22
         },
-        "22A91A6186": {
-            "Name": "Sandeep Jakka",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6186.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "jakkasafkxl",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "Username": "sandeepjakka26",
-                    "Star": "1\u2605",
-                    "Rating": "702?i\n    Provisional Rating, click to know more"
-                },
-                "HackerRank": {
-                    "Username": "Sandeep jakka",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "LeetCode": {
+          "Username": "SirishaVadusula",
+          "Problems": {
+            "Easy": 32,
+            "Medium": 18,
+            "Hard": 1,
+            "Total": 51
+          },
+          "Total_Score": 75,
+          "Contests Attended": 2,
+          "Rating": 1502.3963435187088
         },
-        "22A91A6187": {
-            "Name": "Kandiboina Sowmya",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6187.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "sowmyakanl52n",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Sowmya Kandiboina",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: JavaScript (Basic)"
-                    ]
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 3
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "C language",
+              "stars": 5
             }
+          ],
+          "Certifications": [],
+          "Total_Score": 16
         },
-        "22A91A6183": {
-            "Name": "Gudala Rakesh",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6183.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "rakeshragb1v",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Rakesh Gudala",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 4
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)"
-                    ]
-                }
-            }
+        "Total_Score": 119
+      }
+    },
+    "22A91A61G5": {
+      "Name": "SAI KIRAN REDDY MANDA",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G5.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "saikiranreddy1114",
+          "Coding Score": "5",
+          "Problems Solved": "2",
+          "Problems by Difficulty": {
+            "Easy": 0,
+            "Medium": 1,
+            "Hard": 0,
+            "Total": 1
+          },
+          "Total_Score": 2
         },
-        "22A91A6189`": {
-            "Name": "Katta Navya Sree",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6189`.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "error": "Failed to parse profile"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Navya Sree Katta",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 4
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 4
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)",
-                        "Certificate: Python (Basic)"
-                    ]
-                }
-            }
+        "CodeChef": {
+          "Username": "SAI KIRAN REDDY MANDA",
+          "Star": "1\u2605",
+          "Rating": "1013",
+          "Contests Participated": 9,
+          "Total_Score": 18
         },
-        "22A91A6190": {
-            "Name": "K.Teja Sri Venkat Krishna",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6190.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "tejakatshcj",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Teja Kattula",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "LeetCode": {
+          "Username": "Sai_Kiran_Reddy1114",
+          "Problems": {
+            "Easy": 8,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 8
+          },
+          "Total_Score": 8,
+          "Contests Attended": 0,
+          "Rating": 0
         },
-        "22A91A6191": {
-            "Name": "Keta Jai Sri Shankara Vishnu Vardhan",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6191.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "user_okorjidbddb",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Vishnu Vardhan",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 2
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)"
-                    ]
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 1
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "C language",
+              "stars": 5
             }
+          ],
+          "Certifications": [],
+          "Total_Score": 14
         },
-        "22A91A6192": {
-            "Name": "Koppisetti Chandra Sai Latha",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6192.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "chandrasailatzqo8",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Chandrasailatha Koppisetti",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 3
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "Total_Score": 42
+      }
+    },
+    "22A91A61H5": {
+      "Name": "NISHANTH REDDY PENUMALLU",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61H5.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "reddynisicpr",
+          "Coding Score": "4",
+          "Problems Solved": "1",
+          "Problems by Difficulty": {
+            "Easy": 0,
+            "Medium": 1,
+            "Hard": 0,
+            "Total": 1
+          },
+          "Total_Score": 2
         },
-        "22A91A6195": {
-            "Name": "Mahammad Adil Babu",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6195.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "mdadilr1yz",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Md. Adil",
-                    "Badges": [
-                        {
-                            "name": "Python",
-                            "stars": 1
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "CodeChef": {
+          "error": "Failed to parse profile: 'NoneType' object has no attribute 'text'",
+          "Total_Score": 0
         },
-        "22A91A6198": {
-            "Name": "Marisetty Venkata Naga Satya Sai",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6198.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "venkatsaimauobm",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "error": "Failed to parse profile"
-                }
-            }
+        "LeetCode": {
+          "Username": "nishanthreddy9",
+          "Problems": {
+            "Easy": 0,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 0
+          },
+          "Total_Score": 0,
+          "Contests Attended": 0,
+          "Rating": 0
         },
-        "22A91A6199": {
-            "Name": "Matsa Narendra",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6199.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "narendra9c7h",
-                    "Coding Score": "12",
-                    "Problems Solved": "7",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Narendra Matsa",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 4
+            },
+            {
+              "name": "CPP",
+              "stars": 5
+            },
+            {
+              "name": "Java",
+              "stars": 3
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "C language",
+              "stars": 5
             }
+          ],
+          "Certifications": ["Certificate: C#  (Basic)"],
+          "Total_Score": 22
         },
-        "22A91A61A3": {
-            "Name": "Natte Amrutha Devi",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61A3.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "amruthagy92",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Amrutha natte",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 3
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 3
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "Total_Score": 24
+      }
+    },
+    "22A91A61B6": {
+      "Name": "Adilakshmi Bhavani Sanjana Singineedi",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61B6.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "sanjanasinghblb",
+          "Coding Score": "701",
+          "Problems Solved": "246",
+          "Problems by Difficulty": {
+            "Easy": 90,
+            "Medium": 99,
+            "Hard": 10,
+            "Total": 199
+          },
+          "Total_Score": 318
         },
-        "22A91A61A6": {
-            "Name": "Pantham Veera Venkata Durga Prasad",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61A6.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "durgapra82ju",
-                    "Coding Score": "2",
-                    "Problems Solved": "1",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Veera venkata durga prasad Pantham",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "CodeChef": {
+          "Username": "sanjana.singineedi",
+          "Star": "1\u2605",
+          "Rating": "1211",
+          "Contests Participated": 31,
+          "Total_Score": 62
         },
-        "22A91A61A7": {
-            "Name": "Pasupuleti Jahnavi",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61A7.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "jahnavipasujz07",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Jahnavi Pasupuleti",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 4
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 1
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)"
-                    ]
-                }
-            }
+        "LeetCode": {
+          "Username": "sanjanasingineedi0508",
+          "Problems": {
+            "Easy": 303,
+            "Medium": 159,
+            "Hard": 12,
+            "Total": 474
+          },
+          "Total_Score": 685,
+          "Contests Attended": 14,
+          "Rating": 1280.742
         },
-        "22A91A61A8": {
-            "Name": "Patnala Venkata Chaitanya Kumar",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61A8.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "chaitanyakubmut",
-                    "Coding Score": "6",
-                    "Problems Solved": "4",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Chaitanya Kumar",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "CPP",
+              "stars": 5
+            },
+            {
+              "name": "Java",
+              "stars": 5
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of Code",
+              "stars": 5
+            },
+            {
+              "name": "Sql",
+              "stars": 1
+            },
+            {
+              "name": "C language",
+              "stars": 4
             }
+          ],
+          "Certifications": ["Certificate: Python (Basic)"],
+          "Total_Score": 28
         },
-        "22A91A61B0": {
-            "Name": "Jhansi Penke",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61B0.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "jhansipenke",
-                    "Coding Score": "647",
-                    "Problems Solved": "192",
-                    "Rating": "1689"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Penkey Jhansi",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 4
-                        },
-                        {
-                            "name": "Sql",
-                            "stars": 1
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)",
-                        "Certificate: Problem Solving (Basic)",
-                        "Certificate: Software Engineer",
-                        "Certificate: Software Engineer Intern"
-                    ]
-                }
-            }
+        "Total_Score": 1093
+      }
+    },
+    "22A91A61D6": {
+      "Name": "Likhitha Lavanya Bandi",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61D6.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "likhithal9z3t",
+          "Coding Score": "6",
+          "Problems Solved": "3",
+          "Problems by Difficulty": {
+            "Easy": 3,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 3
+          },
+          "Total_Score": 3
         },
-        "22A91A61B2": {
-            "Name": "Potta Krishna Kaushik",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61B2.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "kaushikmj9t",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Kaushik Potta",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "CodeChef": {
+          "error": "Failed to parse profile: 'NoneType' object has no attribute 'text'",
+          "Total_Score": 0
         },
-        "22A91A61B4": {
-            "Name": "Reddy Venkata Sai Murali",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61B4.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "rd97053qvzw",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Venkata Sai Murali Reddy",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 2
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)"
-                    ]
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 1
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "C language",
+              "stars": 5
             }
+          ],
+          "Certifications": [],
+          "Total_Score": 14
         },
-        "22A91A61B6": {
-            "Name": "Adilakshmi Bhavani Sanjana Singineedi",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61B6.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "sanjanasinghblb",
-                    "Coding Score": "701",
-                    "Problems Solved": "246",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "Username": "sanjana.singineedi",
-                    "Star": "1\u2605",
-                    "Rating": "1211"
-                },
-                "HackerRank": {
-                    "Username": "Sanjana Singineedi",
-                    "Badges": [
-                       
-                        {
-                            "name": "CPP",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        },
-                        
-                        {
-                            "name": "Sql",
-                            "stars": 1
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 4
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Python (Basic)"
-                    ]
-                }
-            }
+        "LeetCode": {
+          "Username": "LikhithaLavanya",
+          "Problems": {
+            "Easy": 2,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 2
+          },
+          "Total_Score": 2,
+          "Contests Attended": 0,
+          "Rating": 0
         },
-        "22A91A61B7": {
-            "Name": "Siram Naga Tejaswi",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61B7.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "tejaswi_45",
-                    "Coding Score": "212",
-                    "Problems Solved": "182",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "S NAGA  TEJASWI",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Sql",
-                            "stars": 5
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)",
-                        "Certificate: Python (Basic)"
-                    ]
-                }
-            }
+        "Total_Score": 19
+      }
+    },
+    "22A91A61G2": {
+      "Name": "kunchapuammoru@gmail.com",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G2.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "kunchapuammoru",
+          "Coding Score": "381",
+          "Problems Solved": "148",
+          "Problems by Difficulty": {
+            "Easy": 71,
+            "Medium": 58,
+            "Hard": 2,
+            "Total": 131
+          },
+          "Total_Score": 193
         },
-        "22A91A61B8": {
-            "Name": "Sireesha. Kaladi",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61B8.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "kaladisirczrx",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "error": "Failed to fetch profile"
-                }
-            }
+        "CodeChef": {
+          "Username": "ammoru",
+          "Star": "2\u2605",
+          "Rating": "1531",
+          "Contests Participated": 9,
+          "Total_Score": 18
         },
-        "22A91A61B9": {
-            "Name": "Surisetti Saicharan",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61B9.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "surisettisaicharan7",
-                    "Coding Score": "4",
-                    "Problems Solved": "2",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Sai charan Surisetti",
-                    "Badges": [],
-                    "Certifications": []
-                }
-            }
+        "LeetCode": {
+          "Username": "kunchapuammoru",
+          "Problems": {
+            "Easy": 113,
+            "Medium": 120,
+            "Hard": 9,
+            "Total": 242
+          },
+          "Total_Score": 402,
+          "Contests Attended": 11,
+          "Rating": 1449.893
         },
-        "22A91A61C0": {
-            "Name": "Vinay Tellagorla",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C0.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "tellagorlavinay",
-                    "Coding Score": "748",
-                    "Problems Solved": "427",
-                    "Rating": "1601"
-                },
-                "CodeChef": {},
-                "HackerRank": {
-                    "Username": "VINAY TELLAGORLA",
-                    "Badges": [
-                        {
-                            "name": "CPP",
-                            "stars": 4
-                        },
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        },
-                        
-                        {
-                            "name": "C language",
-                            "stars": 3
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: JavaScript (Basic)"
-                    ]
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 5
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 4
+            },
+            {
+              "name": "C language",
+              "stars": 5
             }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 22
         },
-        "22A91A61C1": {
-            "Name": "Tadisetti Mohana Venkata Durga",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C1.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "durgatadiszel2",
-                    "Coding Score": "__",
-                    "Problems Solved": "2",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Durga Tadisetti",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 4
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Sql",
-                            "stars": 1
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 4
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "Total_Score": 635
+      }
+    },
+    "22A91A61I6": {
+      "Name": "Talatam Durga Naga Sai Sankar",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61I6.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "shankartacgx7",
+          "Coding Score": "637",
+          "Problems Solved": "294",
+          "Problems by Difficulty": {
+            "Easy": 143,
+            "Medium": 76,
+            "Hard": 2,
+            "Total": 221
+          },
+          "Total_Score": 301
         },
-        "22A91A61C2": {
-            "Name": "Thota Jaya Satya Lakshmi",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C2.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "thotajcsvg",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "Username": "jaya_1717",
-                    "Star": "1\u2605",
-                    "Rating": "945?i\n    Provisional Rating, click to know more"
-                },
-                "HackerRank": {
-                    "Username": "Thota Jayasatyalakshmi",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 5
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 3
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "CodeChef": {
+          "Username": "shankartalatam",
+          "Star": "1\u2605",
+          "Rating": "1004",
+          "Contests Participated": 17,
+          "Total_Score": 34
         },
-        "22A91A61C3": {
-            "Name": "Kamal Sai Tillari",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C3.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "kamalsai369",
-                    "Coding Score": "296",
-                    "Problems Solved": "105",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Kamal Sai Tillari",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)",
-                        "Certificate: CSS (Basic)"
-                    ]
-                }
-            }
+        "LeetCode": {
+          "Username": "sankar_talatam",
+          "Problems": {
+            "Easy": 176,
+            "Medium": 62,
+            "Hard": 5,
+            "Total": 243
+          },
+          "Total_Score": 333,
+          "Contests Attended": 9,
+          "Rating": 1329.275
         },
-        "22A91A61C4": {
-            "Name": "Tirumalaraju Katyayani Asritha Valli Devi",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C4.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "tirumalaradcsw",
-                    "Coding Score": "65",
-                    "Problems Solved": "50",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to parse profile"
-                },
-                "HackerRank": {
-                    "Username": "Asritha Tirumalaraju",
-                    "Badges": [
-                        
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 4
-                        },
-                        
-                        {
-                            "name": "C language",
-                            "stars": 1
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)",
-                        "Certificate: Python (Basic)"
-                    ]
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 4
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 3
+            },
+            {
+              "name": "C language",
+              "stars": 5
             }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 20
         },
-        "22A91A61C5": {
-            "Name": "T.Durgasrilakshmisowjanya",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C5.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "durgasrilaksbavb",
-                    "Coding Score": "10",
-                    "Problems Solved": "4",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Durga sri Lakshmi sowjanya",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "Python",
-                            "stars": 2
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)"
-                    ]
-                }
-            }
+        "Total_Score": 688
+      }
+    },
+    "22A91A61J2": {
+      "Name": "Vemula Sri Pujitha",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61J2.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "sripujith6h1m",
+          "Coding Score": "30",
+          "Problems Solved": "16",
+          "Problems by Difficulty": {
+            "Easy": 5,
+            "Medium": 3,
+            "Hard": 0,
+            "Total": 8
+          },
+          "Total_Score": 11
         },
-        "22A91A61C6": {
-            "Name": "Tirupathi Harsha Vardhini",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C6.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "tirupathihar33f4",
-                    "Coding Score": "__",
-                    "Problems Solved": "__",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "Username": "Harsha vardhini Tirupathi",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        }
-                    ],
-                    "Certifications": []
-                }
-            }
+        "CodeChef": {
+          "Username": "SriPujitha",
+          "Star": "1\u2605",
+          "Rating": "999",
+          "Contests Participated": 11,
+          "Total_Score": 22
         },
-        "22A91A61C8": {
-            "Name": "Ramya Ullingi",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C8.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "error": "Failed to fetch profile"
-                },
-                "CodeChef": {
-                    "error": "Failed to fetch profile"
-                },
-                "HackerRank": {
-                    "error": "Failed to fetch profile"
-                }
-            }
+        "LeetCode": {
+          "Username": "VEMULA_SRI_PUJITHA_2",
+          "Problems": {
+            "Easy": 33,
+            "Medium": 42,
+            "Hard": 9,
+            "Total": 84
+          },
+          "Total_Score": 144,
+          "Contests Attended": 0,
+          "Rating": 0
         },
-        "22A91A61C9": {
-            "Name": "Vadapalli Sravya Sri",
-            "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C9.jpg",
-            "Profiles": {
-                "GeeksForGeeks": {
-                    "Username": "vsravyy7k2",
-                    "Coding Score": "8",
-                    "Problems Solved": "2",
-                    "Rating": "__"
-                },
-                "CodeChef": {
-                    "Username": "V. Sravyasri",
-                    "Star": "1\u2605",
-                    "Rating": "942?i\n    Provisional Rating, click to know more"
-                },
-                "HackerRank": {
-                    "Username": "Vadapalli Sravya sri",
-                    "Badges": [
-                        {
-                            "name": "Java",
-                            "stars": 5
-                        },
-                        {
-                            "name": "C language",
-                            "stars": 4
-                        }
-                    ],
-                    "Certifications": [
-                        "Certificate: Java (Basic)",
-                        "Certificate: Python (Basic)"
-                    ]
-                }
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 3
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 4
+            },
+            {
+              "name": "C language",
+              "stars": 5
             }
-        }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 20
+        },
+        "Total_Score": 197
+      }
+    },
+    "22A91A61H0": {
+      "Name": "Molleti Rohini",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61H0.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "user_n3hjt67npyu",
+          "Coding Score": "204",
+          "Problems Solved": "95",
+          "Problems by Difficulty": {
+            "Easy": 41,
+            "Medium": 23,
+            "Hard": 1,
+            "Total": 65
+          },
+          "Total_Score": 90
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "molletirohini",
+          "Problems": {
+            "Easy": 8,
+            "Medium": 7,
+            "Hard": 0,
+            "Total": 15
+          },
+          "Total_Score": 24,
+          "Contests Attended": 1,
+          "Rating": 1500.752
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 4
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 4
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 21
+        },
+        "Total_Score": 135
+      }
+    },
+    "22A91A61E7": {
+      "Name": "Lavanya Uma Bhavani Dodda",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61E7.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "22a91ahiqk",
+          "Coding Score": "18",
+          "Problems Solved": "12",
+          "Problems by Difficulty": {
+            "Easy": 6,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 6
+          },
+          "Total_Score": 6
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "lavanyadodda",
+          "Problems": {
+            "Easy": 2,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 2
+          },
+          "Total_Score": 2,
+          "Contests Attended": 0,
+          "Rating": 0
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 1
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": [],
+          "Total_Score": 14
+        },
+        "Total_Score": 22
+      }
+    },
+    "22A91A61G4": {
+      "Name": "Vyshnavi Malladi",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G4.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "vyshnavimagwcj",
+          "Coding Score": "114",
+          "Problems Solved": "105",
+          "Problems by Difficulty": {
+            "Easy": 26,
+            "Medium": 6,
+            "Hard": 0,
+            "Total": 32
+          },
+          "Total_Score": 38
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "22A91A61G4",
+          "Problems": {
+            "Easy": 69,
+            "Medium": 5,
+            "Hard": 0,
+            "Total": 74
+          },
+          "Total_Score": 81,
+          "Contests Attended": 1,
+          "Rating": 1488.001
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 3
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 4
+            },
+            {
+              "name": "Sql",
+              "stars": 1
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 21
+        },
+        "Total_Score": 140
+      }
+    },
+    "22A91A61E1": {
+      "Name": "Bommasani Rasmini Devi",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61E1.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "bommasanirasmini",
+          "Coding Score": "91",
+          "Problems Solved": "60",
+          "Problems by Difficulty": {
+            "Easy": 21,
+            "Medium": 9,
+            "Hard": 0,
+            "Total": 30
+          },
+          "Total_Score": 39
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "RasminiDevi",
+          "Problems": {
+            "Easy": 42,
+            "Medium": 16,
+            "Hard": 0,
+            "Total": 58
+          },
+          "Total_Score": 76,
+          "Contests Attended": 1,
+          "Rating": 1422.675
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 4
+            },
+            {
+              "name": "CPP",
+              "stars": 4
+            },
+            {
+              "name": "Java",
+              "stars": 3
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 3
+            },
+            {
+              "name": "Sql",
+              "stars": 1
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": [
+            "Certificate: Java (Basic)",
+            "Certificate: JavaScript (Basic)"
+          ],
+          "Total_Score": 25
+        },
+        "Total_Score": 140
+      }
+    },
+    "22A91A61G6": {
+      "Name": "Mannam Rugveda",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G6.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "rugvedapqyc",
+          "Coding Score": "14",
+          "Problems Solved": "6",
+          "Problems by Difficulty": {
+            "Easy": 4,
+            "Medium": 2,
+            "Hard": 0,
+            "Total": 6
+          },
+          "Total_Score": 8
+        },
+        "CodeChef": {
+          "Username": "Mannam Rugveda",
+          "Star": "1\u2605",
+          "Rating": "1073",
+          "Contests Participated": 13,
+          "Total_Score": 26
+        },
+        "LeetCode": {
+          "Username": "Rugveda_mannam",
+          "Problems": {
+            "Easy": 117,
+            "Medium": 28,
+            "Hard": 3,
+            "Total": 148
+          },
+          "Total_Score": 186,
+          "Contests Attended": 2,
+          "Rating": 1368.022
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 1
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 4
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 18
+        },
+        "Total_Score": 238
+      }
+    },
+    "22A91A61I9": {
+      "Name": "Sri Akshaya Vangala",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61I9.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "sriaksh1ls3",
+          "Coding Score": "91",
+          "Problems Solved": "26",
+          "Problems by Difficulty": {
+            "Easy": 6,
+            "Medium": 15,
+            "Hard": 2,
+            "Total": 23
+          },
+          "Total_Score": 42
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "Sriakshaya29",
+          "Problems": {
+            "Easy": 22,
+            "Medium": 22,
+            "Hard": 5,
+            "Total": 49
+          },
+          "Total_Score": 81,
+          "Contests Attended": 0,
+          "Rating": 0
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 1
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": [],
+          "Total_Score": 14
+        },
+        "Total_Score": 137
+      }
+    },
+    "22A91A61F8": {
+      "Name": "KADIYALA SUJI GAYATRI",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61F8.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "22a91alexn",
+          "Coding Score": "220",
+          "Problems Solved": "80",
+          "Problems by Difficulty": {
+            "Easy": 40,
+            "Medium": 33,
+            "Hard": 1,
+            "Total": 74
+          },
+          "Total_Score": 109
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "HackerRank": {
+          "Badges": [],
+          "Certifications": [],
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "SujiGayatri",
+          "Problems": {
+            "Easy": 30,
+            "Medium": 11,
+            "Hard": 0,
+            "Total": 41
+          },
+          "Total_Score": 52,
+          "Contests Attended": 0,
+          "Rating": 0
+        },
+        "Total_Score": 161
+      }
+    },
+    "22A91A61D9": {
+      "Name": "Praharshitha Battina",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61D9.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "praharsv6k6",
+          "Coding Score": "2",
+          "Problems Solved": "1",
+          "Problems by Difficulty": {
+            "Easy": 1,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 1
+          },
+          "Total_Score": 1
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "praharshitha_3",
+          "Problems": {
+            "Easy": 11,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 11
+          },
+          "Total_Score": 11,
+          "Contests Attended": 0,
+          "Rating": 0
+        },
+        "HackerRank": {
+          "Badges": [],
+          "Certifications": [],
+          "Total_Score": 0
+        },
+        "Total_Score": 12
+      }
+    },
+    "22A91A61J5": {
+      "Name": "Vuppala Reshmitha Setty",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61J5.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "vuppalaresvfzu",
+          "Coding Score": "34",
+          "Problems Solved": "11",
+          "Problems by Difficulty": {
+            "Easy": 5,
+            "Medium": 6,
+            "Hard": 0,
+            "Total": 11
+          },
+          "Total_Score": 17
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "reshmitha_setty_vuppala",
+          "Problems": {
+            "Easy": 58,
+            "Medium": 37,
+            "Hard": 3,
+            "Total": 98
+          },
+          "Total_Score": 149,
+          "Contests Attended": 4,
+          "Rating": 1334.650735847876
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 3
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 4
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 20
+        },
+        "Total_Score": 186
+      }
+    },
+    "22A91A61G0": {
+      "Name": "AYILA NAGA JYOTHI",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G0.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "nagajyotdtoy",
+          "Coding Score": "27",
+          "Problems Solved": "10",
+          "Problems by Difficulty": {
+            "Easy": 5,
+            "Medium": 4,
+            "Hard": 0,
+            "Total": 9
+          },
+          "Total_Score": 13
+        },
+        "CodeChef": {
+          "Username": "jyothi_ayila",
+          "Star": "1\u2605",
+          "Rating": "1119",
+          "Contests Participated": 12,
+          "Total_Score": 24
+        },
+        "LeetCode": {
+          "Username": "jyothi_ayila",
+          "Problems": {
+            "Easy": 86,
+            "Medium": 27,
+            "Hard": 2,
+            "Total": 115
+          },
+          "Total_Score": 152,
+          "Contests Attended": 3,
+          "Rating": 1369.414
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 1
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 4
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 18
+        },
+        "Total_Score": 207
+      }
+    },
+    "22a91a6119": {
+      "Name": "ILLAPU MEHAR ARUN TEJA",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22a91a6119.jpg",
+      "Profiles": {
+        "CodeChef": {
+          "Username": "Illapu Mehar Arun Teja",
+          "Star": "1\u2605",
+          "Rating": "909",
+          "Contests Participated": 9,
+          "Total_Score": 18
+        },
+        "LeetCode": {
+          "Username": "MEHAR_ARUN",
+          "Problems": {
+            "Easy": 49,
+            "Medium": 7,
+            "Hard": 0,
+            "Total": 56
+          },
+          "Total_Score": 65,
+          "Contests Attended": 1,
+          "Rating": 1413.757
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "CPP",
+              "stars": 1
+            }
+          ],
+          "Certifications": [],
+          "Total_Score": 1
+        },
+        "GeeksForGeeks": {
+          "Username": "illapumeha349e",
+          "Coding Score": "71",
+          "Problems Solved": "42",
+          "Problems by Difficulty": {
+            "Easy": 27,
+            "Medium": 1,
+            "Hard": 0,
+            "Total": 28
+          },
+          "Total_Score": 29
+        },
+        "Total_Score": 113
+      }
+    },
+    "22A91A61C0": {
+      "Name": "Vinay Tellagorla",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C0.jpg",
+      "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "Vinay178",
+          "Problems": {
+            "Easy": 165,
+            "Medium": 120,
+            "Hard": 6,
+            "Total": 291
+          },
+          "Total_Score": 443,
+          "Contests Attended": 10,
+          "Rating": 1325.365
+        },
+        "GeeksForGeeks": {
+          "Username": "tellagorlavinay",
+          "Coding Score": "748",
+          "Problems Solved": "427",
+          "Problems by Difficulty": {
+            "Easy": 200,
+            "Medium": 73,
+            "Hard": 4,
+            "Total": 277
+          },
+          "Total_Score": 358
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "CPP",
+              "stars": 4
+            },
+            {
+              "name": "Java",
+              "stars": 5
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 3
+            },
+            {
+              "name": "C language",
+              "stars": 3
+            }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 20
+        },
+        "Total_Score": 821
+      }
+    },
+    "23A95A6114": {
+      "Name": "TARUN SUNKARA",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/23A95A6114.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "sunkaratarun",
+          "Coding Score": "384",
+          "Problems Solved": "150",
+          "Problems by Difficulty": {
+            "Easy": 70,
+            "Medium": 47,
+            "Hard": 6,
+            "Total": 123
+          },
+          "Total_Score": 182
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "sunkaratarun9",
+          "Problems": {
+            "Easy": 102,
+            "Medium": 72,
+            "Hard": 9,
+            "Total": 183
+          },
+          "Total_Score": 275,
+          "Contests Attended": 1,
+          "Rating": 1503.822
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "CPP",
+              "stars": 2
+            },
+            {
+              "name": "Java",
+              "stars": 5
+            },
+            {
+              "name": "Python",
+              "stars": 3
+            }
+          ],
+          "Certifications": [
+            "Certificate: Java (Basic)",
+            "Certificate: Python (Basic)"
+          ],
+          "Total_Score": 10
+        },
+        "Total_Score": 467
+      }
+    },
+    "23A95A6115": {
+      "Name": "Tamarapalli Abhiram",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/23A95A6115.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "abhiramtamarapalli",
+          "Coding Score": "103",
+          "Problems Solved": "28",
+          "Problems by Difficulty": {
+            "Easy": 6,
+            "Medium": 17,
+            "Hard": 3,
+            "Total": 26
+          },
+          "Total_Score": 49
+        },
+        "CodeChef": {
+          "error": "Failed to parse profile: 'NoneType' object has no attribute 'text'",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "abhiram_tamarapalli",
+          "Problems": {
+            "Easy": 8,
+            "Medium": 17,
+            "Hard": 2,
+            "Total": 27
+          },
+          "Total_Score": 48,
+          "Contests Attended": 0,
+          "Rating": 0
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Java",
+              "stars": 5
+            }
+          ],
+          "Certifications": [],
+          "Total_Score": 5
+        },
+        "Total_Score": 102
+      }
+    },
+    "22A91A61I5": {
+      "Name": "Siripuram Ganesh",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61I5.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "siripurx809",
+          "Coding Score": "__",
+          "Problems Solved": "1",
+          "Problems by Difficulty": {
+            "Easy": 0,
+            "Medium": 1,
+            "Hard": 0,
+            "Total": 1
+          },
+          "Total_Score": 2
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "Siripuram_Ganesh1",
+          "Problems": {
+            "Easy": 1,
+            "Medium": 1,
+            "Hard": 0,
+            "Total": 2
+          },
+          "Total_Score": 5,
+          "Contests Attended": 1,
+          "Rating": 1414.149
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 4
+            },
+            {
+              "name": "Python",
+              "stars": 4
+            },
+            {
+              "name": "C language",
+              "stars": 4
+            }
+          ],
+          "Certifications": [],
+          "Total_Score": 12
+        },
+        "Total_Score": 19
+      }
+    },
+    "22A91A61J1": {
+      "Name": "VELAGALA SURYA VIGNATEJA HANUMA  VENKATA SAIRAM REDDY",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61J1.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "5urya",
+          "Coding Score": "93",
+          "Problems Solved": "60",
+          "Problems by Difficulty": {
+            "Easy": 25,
+            "Medium": 9,
+            "Hard": 2,
+            "Total": 36
+          },
+          "Total_Score": 49
+        },
+        "CodeChef": {
+          "Username": "x4yrus",
+          "Star": "2\u2605",
+          "Rating": "1539",
+          "Contests Participated": 9,
+          "Total_Score": 18
+        },
+        "LeetCode": {
+          "Username": "x4yrus",
+          "Problems": {
+            "Easy": 108,
+            "Medium": 48,
+            "Hard": 6,
+            "Total": 162
+          },
+          "Total_Score": 228,
+          "Contests Attended": 3,
+          "Rating": 1417.318
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "CPP",
+              "stars": 1
+            },
+            {
+              "name": "Java",
+              "stars": 2
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "Days of JS",
+              "stars": 4
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": ["Certificate: JavaScript (Basic)"],
+          "Total_Score": 20
+        },
+        "Total_Score": 315
+      }
+    },
+    "22A91A61F3": {
+      "Name": "Gottipati Srivalli",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61F3.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "login",
+          "Coding Score": "__",
+          "Problems Solved": "__",
+          "Problems by Difficulty": {
+            "Easy": 0,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 0
+          },
+          "Total_Score": 0
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "srivalli_05",
+          "Problems": {
+            "Easy": 25,
+            "Medium": 52,
+            "Hard": 11,
+            "Total": 88
+          },
+          "Total_Score": 166,
+          "Contests Attended": 2,
+          "Rating": 1437.749
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 3
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": ["Certificate: SQL (Basic)"],
+          "Total_Score": 16
+        },
+        "Total_Score": 182
+      }
+    },
+    "22A91A61A6": {
+      "Name": "Pantham Veera venkata durga prasad",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61A6.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "durgapra82ju",
+          "Coding Score": "2",
+          "Problems Solved": "1",
+          "Problems by Difficulty": {
+            "Easy": 1,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 1
+          },
+          "Total_Score": 1
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "Prasad_BOlt",
+          "Problems": {
+            "Easy": 0,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 0
+          },
+          "Total_Score": 0,
+          "Contests Attended": 0,
+          "Rating": 0
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Java",
+              "stars": 5
+            }
+          ],
+          "Certifications": [],
+          "Total_Score": 5
+        },
+        "Total_Score": 6
+      }
+    },
+    "22A91A61G3": {
+      "Name": "Lingolu Lakshmi Sowjanya",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G3.jpg",
+      "Profiles": {
+        "GeeksForGeeks": {
+          "Username": "lakshmisowsqg7",
+          "Coding Score": "211",
+          "Problems Solved": "106",
+          "Problems by Difficulty": {
+            "Easy": 43,
+            "Medium": 26,
+            "Hard": 2,
+            "Total": 71
+          },
+          "Total_Score": 101
+        },
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "lakshmisowjanya1420",
+          "Problems": {
+            "Easy": 28,
+            "Medium": 15,
+            "Hard": 2,
+            "Total": 45
+          },
+          "Total_Score": 64,
+          "Contests Attended": 0,
+          "Rating": 0
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Problem Solving",
+              "stars": 3
+            },
+            {
+              "name": "Java",
+              "stars": 3
+            },
+            {
+              "name": "Python",
+              "stars": 5
+            },
+            {
+              "name": "C language",
+              "stars": 5
+            }
+          ],
+          "Certifications": [],
+          "Total_Score": 16
+        },
+        "Total_Score": 181
+      }
+    },
+    "22A91A61C3": {
+      "Name": "Kamal sai Tillari",
+      "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C3.jpg",
+      "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
+        "GeeksForGeeks": {
+          "Username": "kamalsai369",
+          "Coding Score": "298",
+          "Problems Solved": "107",
+          "Problems by Difficulty": {
+            "Easy": 43,
+            "Medium": 33,
+            "Hard": 8,
+            "Total": 84
+          },
+          "Total_Score": 133
+        },
+        "LeetCode": {
+          "Username": "kamalsai",
+          "Problems": {
+            "Easy": 55,
+            "Medium": 67,
+            "Hard": 11,
+            "Total": 133
+          },
+          "Total_Score": 226,
+          "Contests Attended": 2,
+          "Rating": 1409.37
+        },
+        "HackerRank": {
+          "Badges": [
+            {
+              "name": "Java",
+              "stars": 5
+            }
+          ],
+          "Certifications": [
+            "Certificate: Java (Basic)",
+            "Certificate: CSS (Basic)"
+          ],
+          "Total_Score": 5
+        },
+        "Total_Score": 364
+      }
     }
+  }
 }
