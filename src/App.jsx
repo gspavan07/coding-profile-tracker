@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Select, SelectItem } from "./components/Select";
-import studentData from "./assets/students_profiles_with_branches.json";
+import studentData from "./assets/students_profiles.json";
 import StdProfile from "./components/StdProfile";
 import { calculatePerformance } from "./lib/utils";
 
@@ -22,11 +22,7 @@ function App() {
       gfg: data.Profiles.GeeksForGeeks || {},
       codechef: data.Profiles.CodeChef || {},
       hackerrank: data.Profiles.HackerRank || {},
-      performance: calculatePerformance({
-        gfg: data.Profiles.GeeksForGeeks || {},
-        codechef: data.Profiles.CodeChef || {},
-        hackerrank: data.Profiles.HackerRank || {},
-      }),
+      performance: data.Profiles.Total_Score,
     }));
 
     setStudents(formattedStudents);
@@ -61,12 +57,12 @@ function App() {
 
   return (
     <div className="flex flex-col w-full h-screen ">
-      <nav className="w-full items-center  justify-between flex p-6">
+      <nav className="w-full items-center  justify-between flex px-8 pt-6">
         <img src="au_logo.png" alt="" className="h-14" />
         <h1 className="font-bold text-4xl">Coding Profile Tracking System</h1>
         <div className="w-20"></div>
       </nav>
-      <div className="flex p-6 gap-6 bg-white h-[88vh] text-black">
+      <div className="flex p-6 gap-4 bg-white h-[91vh] text-black">
         {/* Left Side - Top Performers */}
         <div className="w-1/4 flex flex-col gap-6 h-full">
           {[

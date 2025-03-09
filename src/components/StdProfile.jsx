@@ -6,7 +6,10 @@ const StdProfile = ({ selectedStudent, onClick }) => {
       <div className="fixed inset-0 flex items-center justify-center bg-[#00000063]">
         <div className="bg-gray-800 text-white p-6 rounded-lg min-w-96 max-w-3xl text-center">
           <p className="text-xl font-bold">No student data available</p>
-          <button onClick={onClick} className="mt-4 bg-red-500 text-white p-2 rounded w-full">
+          <button
+            onClick={onClick}
+            className="mt-4 bg-red-500 text-white p-2 rounded w-full"
+          >
             Close
           </button>
         </div>
@@ -27,15 +30,15 @@ const StdProfile = ({ selectedStudent, onClick }) => {
 
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-[#00000063] space-x-5">
-      
       <div className="bg-gray-800 flex flex-col justify-center items-center text-white p-6 rounded-lg min-w-96 max-w-4xl">
         <h2 className="text-xl font-bold mb-2 text-center underline">
-          {selectedStudent.name}</h2>
+          {selectedStudent.name}
+        </h2>
         <p>
           {selectedStudent.roll} ({selectedStudent.branch})
         </p>
         <img
-          src="img.jpg"
+          src={selectedStudent.image}
           alt={selectedStudent.name}
           className="w-40 h-40 object-cover rounded-full mb-4 "
         />
@@ -65,7 +68,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
               </p>
             </div>
           </div>
-          <div >
+          <div>
             <p className="underline">
               <strong>CodeChef</strong>
             </p>
@@ -110,13 +113,15 @@ const StdProfile = ({ selectedStudent, onClick }) => {
         </button>
       </div>
       <div className="bg-gray-800 flex flex-col justify-center items-center text-white p-6 rounded-lg min-w-96 max-w-3xl">
-
-
         {/* Contest Rating Section */}
         <div className="bg-gray-700 p-4 rounded-lg text-center w-full mb-4">
           <p className="text-lg font-bold">Contest Rating</p>
-          <p className="text-2xl font-extrabold">{selectedStudent.rating || "N/A"}</p>
-          <p className="text-sm">Global Ranking: {selectedStudent.globalRanking || "N/A"}</p>
+          <p className="text-2xl font-extrabold">
+            {selectedStudent.rating || "N/A"}
+          </p>
+          <p className="text-sm">
+            Global Ranking: {selectedStudent.globalRanking || "N/A"}
+          </p>
         </div>
 
         {/* Problem Solving Stats */}
@@ -124,31 +129,37 @@ const StdProfile = ({ selectedStudent, onClick }) => {
           <p className="text-lg font-bold">Total Problems Solved</p>
           <p className="text-3xl font-extrabold">{totalSolved}</p>
           <div className="flex justify-around mt-2">
-            <p className="text-green-400">Easy: {selectedStudent.gfg?.["Easy"] || 0}</p>
-            <p className="text-yellow-400">Med: {selectedStudent.gfg?.["Medium"] || 0}</p>
-            <p className="text-red-400">Hard: {selectedStudent.gfg?.["Hard"] || 0}</p>
+            <p className="text-green-400">
+              Easy: {selectedStudent.gfg?.["Easy"] || 0}
+            </p>
+            <p className="text-yellow-400">
+              Med: {selectedStudent.gfg?.["Medium"] || 0}
+            </p>
+            <p className="text-red-400">
+              Hard: {selectedStudent.gfg?.["Hard"] || 0}
+            </p>
           </div>
         </div>
 
         {/* Badges Section */}
         <div className="bg-gray-700 p-4 rounded-lg text-center w-full mb-4 max-w-md">
           <p className="text-lg font-bold">Badges</p>
-          <p>{selectedStudent.hackerrank.Badges?.map(
-            (b) => `${b.name} (${b.stars}⭐)`)|| "N/A"}</p>
+          <p>
+            {selectedStudent.hackerrank.Badges?.map(
+              (b) => `${b.name} (${b.stars}⭐)`
+            ) || "N/A"}
+          </p>
         </div>
 
         {/* Language & Problem Solving Breakdown */}
         <div className="bg-gray-700 p-4 rounded-lg text-center w-full mb-4">
           <p className="text-lg font-bold">Languages</p>
-          {selectedStudent.hackerrank.Badges?.map(
-                  (b) => `${b.name} `
-                ).join(", ") || "N/A"}
+          {selectedStudent.hackerrank.Badges?.map((b) => `${b.name} `).join(
+            ", "
+          ) || "N/A"}
         </div>
-
-
       </div>
     </div>
-    
   );
 };
 
