@@ -8,7 +8,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
           <p className="text-xl font-bold">No student data available</p>
           <button
             onClick={onClick}
-            className="mt-4 bg-red-500 text-white p-2 rounded w-full"
+            className="mt-4 bg-red-500 text-white p-2 rounded w-full hover:bg-red-600 cursor:pointer"
           >
             Close
           </button>
@@ -22,11 +22,6 @@ const StdProfile = ({ selectedStudent, onClick }) => {
     const match = rating.match(/\d+/);
     return match ? parseInt(match[0], 10) : 0;
   };
-
-  const totalSolved =
-    (selectedStudent.gfg?.["Problems Solved"] || 0) +
-    (selectedStudent.codechef?.["Problems Solved"] || 0) +
-    (selectedStudent.hackerrank?.["Problems Solved"] || 0);
 
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-[#00000063] space-x-5">
@@ -43,9 +38,9 @@ const StdProfile = ({ selectedStudent, onClick }) => {
           className="w-40 h-40 object-cover rounded-full mb-4 "
         />
 
-        <div className="w-full flex flex-1/3 un">
-          <div>
-            <p className="underline">
+        <div className="w-full flex flex-1/3 space-x-3">
+          <div className="bg-gray-600 rounded-lg p-2 hover:bg-gray-500">
+            <p className="underline ">
               <strong>GeekForGeeks</strong>
             </p>
             <div className="px-5">
@@ -55,11 +50,11 @@ const StdProfile = ({ selectedStudent, onClick }) => {
               </p>
               <p>
                 <strong>Coding Score:</strong>{" "}
-                {selectedStudent.gfg["Coding Score"] || "N/A"}
+                {selectedStudent.gfg["Coding_Score"] || "N/A"}
               </p>
               <p>
                 <strong>Problems Solved:</strong>{" "}
-                {selectedStudent.gfg["Problems Solved"] || "N/A"}
+                {selectedStudent.gfg["Problems_Solved"] || "N/A"}
               </p>
 
               <p>
@@ -68,7 +63,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
               </p>
             </div>
           </div>
-          <div>
+          <div className="bg-gray-600 rounded-lg p-2 hover:bg-gray-500">
             <p className="underline">
               <strong>CodeChef</strong>
             </p>
@@ -87,7 +82,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
               </p>
             </div>
           </div>
-          <div className=" max-w-56">
+          <div className=" max-w-56 bg-gray-600 rounded-lg p-2 hover:bg-gray-500">
             <p className="underline">
               <strong> HackerRank</strong>
             </p>
@@ -107,7 +102,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
         </div>
         <button
           onClick={onClick}
-          className="mt-4 bg-red-500 text-white p-2 rounded w-full"
+          className="mt-4 bg-red-500 text-white p-2 rounded w-full hover:bg-red-600 cursor-pointer"
         >
           Close
         </button>
@@ -117,26 +112,32 @@ const StdProfile = ({ selectedStudent, onClick }) => {
         <div className="bg-gray-700 p-4 rounded-lg text-center w-full mb-4">
           <p className="text-lg font-bold">Contest Rating</p>
           <p className="text-2xl font-extrabold">
-            {selectedStudent.rating || "N/A"}
-          </p>
-          <p className="text-sm">
-            Global Ranking: {selectedStudent.globalRanking || "N/A"}
+            {selectedStudent.codechef.Rating || "N/A"}
           </p>
         </div>
 
         {/* Problem Solving Stats */}
         <div className="bg-gray-700 p-4 rounded-lg text-center w-full mb-4">
           <p className="text-lg font-bold">Total Problems Solved</p>
-          <p className="text-3xl font-extrabold">{totalSolved}</p>
-          <div className="flex justify-around mt-2">
-            <p className="text-green-400">
-              Easy: {selectedStudent.gfg?.["Easy"] || 0}
+          <p className="text-3xl font-extrabold">
+            {selectedStudent.gfg["Problems_by_Difficulty"]["Total"] +
+              selectedStudent.leetcode["Problems"]["Total"] || 0}
+          </p>
+          <div className="flex justify-around mt-2 ">
+            <p className="text-green-400  hover:text-green-500 ">
+              Easy:{" "}
+              {selectedStudent.gfg["Problems_by_Difficulty"]["Easy"] +
+                selectedStudent.leetcode["Problems"]["Easy"] || 0}
             </p>
-            <p className="text-yellow-400">
-              Med: {selectedStudent.gfg?.["Medium"] || 0}
+            <p className="text-yellow-400  hover:text-yellow-500 ">
+              Med:{" "}
+              {selectedStudent.gfg["Problems_by_Difficulty"]["Medium"] +
+                selectedStudent.leetcode["Problems"]["Medium"] || 0}
             </p>
-            <p className="text-red-400">
-              Hard: {selectedStudent.gfg?.["Hard"] || 0}
+            <p className="text-red-400  hover:text-red-500 ">
+              Hard:{" "}
+              {selectedStudent.gfg["Problems_by_Difficulty"]["Hard"] +
+                selectedStudent.leetcode["Problems"]["Hard"] || 0}
             </p>
           </div>
         </div>
@@ -146,18 +147,18 @@ const StdProfile = ({ selectedStudent, onClick }) => {
           <p className="text-lg font-bold">Badges</p>
           <p>
             {selectedStudent.hackerrank.Badges?.map(
-              (b) => `${b.name} (${b.stars}⭐)`
+              (b) => `${b.name} (${b.stars}\u2605)`
             ) || "N/A"}
           </p>
         </div>
 
-        {/* Language & Problem Solving Breakdown */}
+        {/* Language & Problem Solving Breakdown
         <div className="bg-gray-700 p-4 rounded-lg text-center w-full mb-4">
           <p className="text-lg font-bold">Languages</p>
           {selectedStudent.hackerrank.Badges?.map((b) => `${b.name} `).join(
             ", "
           ) || "N/A"}
-        </div>
+        </div> */}
       </div>
     </div>
   );

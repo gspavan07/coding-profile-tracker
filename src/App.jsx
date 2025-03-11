@@ -1,8 +1,7 @@
 import { useState, useEffect } from "react";
 import { Select, SelectItem } from "./components/Select";
-import studentData from "./assets/students_profiles.json";
+import studentData from "./assets/students_profiles_updated.json";
 import StdProfile from "./components/StdProfile";
-import { calculatePerformance } from "./lib/utils";
 
 function App() {
   const [selectedBranch, setSelectedBranch] = useState("All");
@@ -22,6 +21,7 @@ function App() {
       gfg: data.Profiles.GeeksForGeeks || {},
       codechef: data.Profiles.CodeChef || {},
       hackerrank: data.Profiles.HackerRank || {},
+      leetcode: data.Profiles.LeetCode || {},
       performance: data.Profiles.Total_Score,
     }));
 
