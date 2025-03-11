@@ -3,35 +3,36 @@
     "22A91A61E8": {
       "Name": "DIVYA EELI",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61E8.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "divi25715",
-          "Coding Score": "649",
-          "Problems Solved": "328",
-          "Problems by Difficulty": {
+          "Coding_Score": "649",
+          "Problems_Solved": "329",
+          "Problems_by_Difficulty": {
             "Easy": 144,
             "Medium": 94,
-            "Hard": 8,
-            "Total": 246
+            "Hard": 9,
+            "Total": 247
           },
-          "Total_Score": 356
+          "Total_Score": 359
         },
         "CodeChef": {
-          "Username": "Eeli Divya",
+          "Username": "divya_5677",
           "Star": "1\u2605",
           "Rating": "1129",
-          "Contests Participated": 31,
+          "Contests_Participated": 31,
           "Total_Score": 62
         },
         "LeetCode": {
           "Username": "Eeli_Divya",
           "Problems": {
             "Easy": 210,
-            "Medium": 152,
+            "Medium": 153,
             "Hard": 12,
-            "Total": 374
+            "Total": 375
           },
-          "Total_Score": 580,
+          "Total_Score": 582,
           "Contests Attended": 15,
           "Rating": 1194.203
         },
@@ -63,33 +64,46 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 21
+          "Total Score": 21
         },
-        "Total_Score": 1019
+        "Total_Score": 1003
       }
     },
     "22A91A6194": {
       "Name": "K.S.V.S SAHITHI",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A6194.jpg",
+      "Branch": "AIML",
       "Profiles": {
-        "GeeksForGeeks": {
-          "Username": "sahithidhnjot",
-          "Coding Score": "634",
-          "Problems Solved": "291",
-          "Problems by Difficulty": {
-            "Easy": 121,
-            "Medium": 78,
-            "Hard": 4,
-            "Total": 203
-          },
-          "Total_Score": 289
-        },
         "CodeChef": {
           "Username": "sahithidhanamj",
           "Star": "1\u2605",
           "Rating": "1162",
-          "Contests Participated": 31,
+          "Contests_Participated": 31,
           "Total_Score": 62
+        },
+        "LeetCode": {
+          "Username": "sahithidhanamjay",
+          "Problems": {
+            "Easy": 335,
+            "Medium": 232,
+            "Hard": 20,
+            "Total": 587
+          },
+          "Total_Score": 947,
+          "Contests Attended": 44,
+          "Rating": 1271.308
+        },
+        "GeeksForGeeks": {
+          "Username": "sahithidhnjot",
+          "Coding_Score": "636",
+          "Problems_Solved": "292",
+          "Problems_by_Difficulty": {
+            "Easy": 122,
+            "Medium": 78,
+            "Hard": 4,
+            "Total": 204
+          },
+          "Total_Score": 290
         },
         "HackerRank": {
           "Badges": [
@@ -119,57 +133,46 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 27
+          "Total Score": 27
         },
-        "LeetCode": {
-          "Username": "sahithidhanamjay",
-          "Problems": {
-            "Easy": 333,
-            "Medium": 231,
-            "Hard": 20,
-            "Total": 584
-          },
-          "Total_Score": 943,
-          "Contests Attended": 44,
-          "Rating": 1271.308
-        },
-        "Total_Score": 1321
+        "Total_Score": 1299
       }
     },
     "22A91A61I8": {
       "Name": "VENKATA SIRISHA VADUSULA",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61I8.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "CodeChef": {
-          "Username": "Venkata Sirisha Vadusula",
+          "Username": "sirishav",
           "Star": "1\u2605",
           "Rating": "1144?i\n    Provisional Rating, click to know more",
-          "Contests Participated": 3,
+          "Contests_Participated": 3,
           "Total_Score": 6
-        },
-        "GeeksForGeeks": {
-          "Username": "sirishavcqq",
-          "Coding Score": "46",
-          "Problems Solved": "18",
-          "Problems by Difficulty": {
-            "Easy": 10,
-            "Medium": 6,
-            "Hard": 0,
-            "Total": 16
-          },
-          "Total_Score": 22
         },
         "LeetCode": {
           "Username": "SirishaVadusula",
           "Problems": {
-            "Easy": 32,
-            "Medium": 18,
+            "Easy": 35,
+            "Medium": 19,
             "Hard": 1,
-            "Total": 51
+            "Total": 55
           },
-          "Total_Score": 75,
+          "Total_Score": 80,
           "Contests Attended": 2,
           "Rating": 1502.3963435187088
+        },
+        "GeeksForGeeks": {
+          "Username": "sirishavcqq",
+          "Coding_Score": "69",
+          "Problems_Solved": "24",
+          "Problems_by_Difficulty": {
+            "Easy": 11,
+            "Medium": 9,
+            "Hard": 1,
+            "Total": 21
+          },
+          "Total_Score": 32
         },
         "HackerRank": {
           "Badges": [
@@ -191,20 +194,21 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 16
+          "Total Score": 16
         },
-        "Total_Score": 119
+        "Total_Score": 118
       }
     },
     "22A91A61G5": {
       "Name": "SAI KIRAN REDDY MANDA",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G5.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "saikiranreddy1114",
-          "Coding Score": "5",
-          "Problems Solved": "2",
-          "Problems by Difficulty": {
+          "Coding_Score": "5",
+          "Problems_Solved": "2",
+          "Problems_by_Difficulty": {
             "Easy": 0,
             "Medium": 1,
             "Hard": 0,
@@ -213,10 +217,10 @@
           "Total_Score": 2
         },
         "CodeChef": {
-          "Username": "SAI KIRAN REDDY MANDA",
+          "Username": "saikiran1114",
           "Star": "1\u2605",
           "Rating": "1013",
-          "Contests Participated": 9,
+          "Contests_Participated": 9,
           "Total_Score": 18
         },
         "LeetCode": {
@@ -251,20 +255,21 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 14
+          "Total Score": 14
         },
-        "Total_Score": 42
+        "Total_Score": 28
       }
     },
     "22A91A61H5": {
       "Name": "NISHANTH REDDY PENUMALLU",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61H5.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "reddynisicpr",
-          "Coding Score": "4",
-          "Problems Solved": "1",
-          "Problems by Difficulty": {
+          "Coding_Score": "4",
+          "Problems_Solved": "1",
+          "Problems_by_Difficulty": {
             "Easy": 0,
             "Medium": 1,
             "Hard": 0,
@@ -273,7 +278,15 @@
           "Total_Score": 2
         },
         "CodeChef": {
-          "error": "Failed to parse profile: 'NoneType' object has no attribute 'text'",
+          "Username": "nishanthreddy4",
+          "Coding_Score": "__",
+          "Problems_Solved": "__",
+          "Problems_by_Difficulty": {
+            "Easy": 0,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 0
+          },
           "Total_Score": 0
         },
         "LeetCode": {
@@ -312,45 +325,46 @@
             }
           ],
           "Certifications": ["Certificate: C#  (Basic)"],
-          "Total_Score": 22
+          "Total Score": 22
         },
-        "Total_Score": 24
+        "Total_Score": 2
       }
     },
     "22A91A61B6": {
       "Name": "Adilakshmi Bhavani Sanjana Singineedi",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61B6.jpg",
+      "Branch": "AIML",
       "Profiles": {
-        "GeeksForGeeks": {
-          "Username": "sanjanasinghblb",
-          "Coding Score": "701",
-          "Problems Solved": "246",
-          "Problems by Difficulty": {
-            "Easy": 90,
-            "Medium": 99,
-            "Hard": 10,
-            "Total": 199
-          },
-          "Total_Score": 318
-        },
         "CodeChef": {
-          "Username": "sanjana.singineedi",
+          "Username": "sanjana_s05",
           "Star": "1\u2605",
           "Rating": "1211",
-          "Contests Participated": 31,
+          "Contests_Participated": 31,
           "Total_Score": 62
         },
         "LeetCode": {
           "Username": "sanjanasingineedi0508",
           "Problems": {
             "Easy": 303,
-            "Medium": 159,
+            "Medium": 161,
             "Hard": 12,
-            "Total": 474
+            "Total": 476
           },
-          "Total_Score": 685,
+          "Total_Score": 689,
           "Contests Attended": 14,
           "Rating": 1280.742
+        },
+        "GeeksForGeeks": {
+          "Username": "sanjanasinghblb",
+          "Coding_Score": "713",
+          "Problems_Solved": "249",
+          "Problems_by_Difficulty": {
+            "Easy": 91,
+            "Medium": 100,
+            "Hard": 11,
+            "Total": 202
+          },
+          "Total_Score": 324
         },
         "HackerRank": {
           "Badges": [
@@ -384,20 +398,21 @@
             }
           ],
           "Certifications": ["Certificate: Python (Basic)"],
-          "Total_Score": 28
+          "Total Score": 28
         },
-        "Total_Score": 1093
+        "Total_Score": 1075
       }
     },
     "22A91A61D6": {
       "Name": "Likhitha Lavanya Bandi",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61D6.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "likhithal9z3t",
-          "Coding Score": "6",
-          "Problems Solved": "3",
-          "Problems by Difficulty": {
+          "Coding_Score": "6",
+          "Problems_Solved": "3",
+          "Problems_by_Difficulty": {
             "Easy": 3,
             "Medium": 0,
             "Hard": 0,
@@ -406,8 +421,28 @@
           "Total_Score": 3
         },
         "CodeChef": {
-          "error": "Failed to parse profile: 'NoneType' object has no attribute 'text'",
+          "Username": "likhithabandi",
+          "Coding_Score": "__",
+          "Problems_Solved": "__",
+          "Problems_by_Difficulty": {
+            "Easy": 0,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 0
+          },
           "Total_Score": 0
+        },
+        "LeetCode": {
+          "Username": "LikhithaLavanya",
+          "Problems": {
+            "Easy": 2,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 2
+          },
+          "Total_Score": 2,
+          "Contests Attended": 0,
+          "Rating": 0
         },
         "HackerRank": {
           "Badges": [
@@ -429,32 +464,21 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 14
+          "Total Score": 14
         },
-        "LeetCode": {
-          "Username": "LikhithaLavanya",
-          "Problems": {
-            "Easy": 2,
-            "Medium": 0,
-            "Hard": 0,
-            "Total": 2
-          },
-          "Total_Score": 2,
-          "Contests Attended": 0,
-          "Rating": 0
-        },
-        "Total_Score": 19
+        "Total_Score": 5
       }
     },
     "22A91A61G2": {
       "Name": "kunchapuammoru@gmail.com",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G2.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "kunchapuammoru",
-          "Coding Score": "381",
-          "Problems Solved": "148",
-          "Problems by Difficulty": {
+          "Coding_Score": "381",
+          "Problems_Solved": "148",
+          "Problems_by_Difficulty": {
             "Easy": 71,
             "Medium": 58,
             "Hard": 2,
@@ -466,7 +490,7 @@
           "Username": "ammoru",
           "Star": "2\u2605",
           "Rating": "1531",
-          "Contests Participated": 9,
+          "Contests_Participated": 9,
           "Total_Score": 18
         },
         "LeetCode": {
@@ -505,43 +529,44 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 22
+          "Total Score": 22
         },
-        "Total_Score": 635
+        "Total_Score": 613
       }
     },
     "22A91A61I6": {
       "Name": "Talatam Durga Naga Sai Sankar",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61I6.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "shankartacgx7",
-          "Coding Score": "637",
-          "Problems Solved": "294",
-          "Problems by Difficulty": {
-            "Easy": 143,
-            "Medium": 76,
+          "Coding_Score": "643",
+          "Problems_Solved": "296",
+          "Problems_by_Difficulty": {
+            "Easy": 144,
+            "Medium": 77,
             "Hard": 2,
-            "Total": 221
+            "Total": 223
           },
-          "Total_Score": 301
+          "Total_Score": 304
         },
         "CodeChef": {
           "Username": "shankartalatam",
           "Star": "1\u2605",
           "Rating": "1004",
-          "Contests Participated": 17,
+          "Contests_Participated": 17,
           "Total_Score": 34
         },
         "LeetCode": {
           "Username": "sankar_talatam",
           "Problems": {
-            "Easy": 176,
+            "Easy": 177,
             "Medium": 62,
-            "Hard": 5,
-            "Total": 243
+            "Hard": 6,
+            "Total": 245
           },
-          "Total_Score": 333,
+          "Total_Score": 337,
           "Contests Attended": 9,
           "Rating": 1329.275
         },
@@ -569,20 +594,21 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 20
+          "Total Score": 20
         },
-        "Total_Score": 688
+        "Total_Score": 675
       }
     },
     "22A91A61J2": {
       "Name": "Vemula Sri Pujitha",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61J2.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "sripujith6h1m",
-          "Coding Score": "30",
-          "Problems Solved": "16",
-          "Problems by Difficulty": {
+          "Coding_Score": "30",
+          "Problems_Solved": "16",
+          "Problems_by_Difficulty": {
             "Easy": 5,
             "Medium": 3,
             "Hard": 0,
@@ -591,10 +617,10 @@
           "Total_Score": 11
         },
         "CodeChef": {
-          "Username": "SriPujitha",
+          "Username": "sripujitha29",
           "Star": "1\u2605",
           "Rating": "999",
-          "Contests Participated": 11,
+          "Contests_Participated": 11,
           "Total_Score": 22
         },
         "LeetCode": {
@@ -633,20 +659,21 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 20
+          "Total Score": 20
         },
-        "Total_Score": 197
+        "Total_Score": 177
       }
     },
     "22A91A61H0": {
       "Name": "Molleti Rohini",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61H0.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "user_n3hjt67npyu",
-          "Coding Score": "204",
-          "Problems Solved": "95",
-          "Problems by Difficulty": {
+          "Coding_Score": "208",
+          "Problems_Solved": "99",
+          "Problems_by_Difficulty": {
             "Easy": 41,
             "Medium": 23,
             "Hard": 1,
@@ -655,8 +682,11 @@
           "Total_Score": 90
         },
         "CodeChef": {
-          "error": "Failed to fetch profile",
-          "Total_Score": 0
+          "Username": "rohinitaraka",
+          "Star": "1\u2605",
+          "Rating": "1139",
+          "Contests_Participated": 25,
+          "Total_Score": 50
         },
         "LeetCode": {
           "Username": "molletirohini",
@@ -694,30 +724,31 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 21
+          "Total Score": 21
         },
-        "Total_Score": 135
+        "Total_Score": 164
       }
     },
     "22A91A61E7": {
       "Name": "Lavanya Uma Bhavani Dodda",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61E7.jpg",
+      "Branch": "AIML",
       "Profiles": {
-        "GeeksForGeeks": {
-          "Username": "22a91ahiqk",
-          "Coding Score": "18",
-          "Problems Solved": "12",
-          "Problems by Difficulty": {
-            "Easy": 6,
-            "Medium": 0,
-            "Hard": 0,
-            "Total": 6
-          },
-          "Total_Score": 6
-        },
         "CodeChef": {
           "error": "Failed to fetch profile",
           "Total_Score": 0
+        },
+        "GeeksForGeeks": {
+          "Username": "22a91ahiqk",
+          "Coding_Score": "24",
+          "Problems_Solved": "16",
+          "Problems_by_Difficulty": {
+            "Easy": 8,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 8
+          },
+          "Total_Score": 8
         },
         "LeetCode": {
           "Username": "lavanyadodda",
@@ -751,30 +782,31 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 14
+          "Total Score": 14
         },
-        "Total_Score": 22
+        "Total_Score": 10
       }
     },
     "22A91A61G4": {
       "Name": "Vyshnavi Malladi",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G4.jpg",
+      "Branch": "AIML",
       "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
         "GeeksForGeeks": {
           "Username": "vyshnavimagwcj",
-          "Coding Score": "114",
-          "Problems Solved": "105",
-          "Problems by Difficulty": {
+          "Coding_Score": "114",
+          "Problems_Solved": "105",
+          "Problems_by_Difficulty": {
             "Easy": 26,
             "Medium": 6,
             "Hard": 0,
             "Total": 32
           },
           "Total_Score": 38
-        },
-        "CodeChef": {
-          "error": "Failed to fetch profile",
-          "Total_Score": 0
         },
         "LeetCode": {
           "Username": "22A91A61G4",
@@ -816,30 +848,31 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 21
+          "Total Score": 21
         },
-        "Total_Score": 140
+        "Total_Score": 119
       }
     },
     "22A91A61E1": {
       "Name": "Bommasani Rasmini Devi",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61E1.jpg",
+      "Branch": "AIML",
       "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
         "GeeksForGeeks": {
           "Username": "bommasanirasmini",
-          "Coding Score": "91",
-          "Problems Solved": "60",
-          "Problems by Difficulty": {
+          "Coding_Score": "91",
+          "Problems_Solved": "60",
+          "Problems_by_Difficulty": {
             "Easy": 21,
             "Medium": 9,
             "Hard": 0,
             "Total": 30
           },
           "Total_Score": 39
-        },
-        "CodeChef": {
-          "error": "Failed to fetch profile",
-          "Total_Score": 0
         },
         "LeetCode": {
           "Username": "RasminiDevi",
@@ -888,20 +921,25 @@
             "Certificate: Java (Basic)",
             "Certificate: JavaScript (Basic)"
           ],
-          "Total_Score": 25
+          "Total Score": 25
         },
-        "Total_Score": 140
+        "Total_Score": 115
       }
     },
     "22A91A61G6": {
       "Name": "Mannam Rugveda",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G6.jpg",
+      "Branch": "AIML",
       "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
         "GeeksForGeeks": {
           "Username": "rugvedapqyc",
-          "Coding Score": "14",
-          "Problems Solved": "6",
-          "Problems by Difficulty": {
+          "Coding_Score": "14",
+          "Problems_Solved": "6",
+          "Problems_by_Difficulty": {
             "Easy": 4,
             "Medium": 2,
             "Hard": 0,
@@ -909,22 +947,15 @@
           },
           "Total_Score": 8
         },
-        "CodeChef": {
-          "Username": "Mannam Rugveda",
-          "Star": "1\u2605",
-          "Rating": "1073",
-          "Contests Participated": 13,
-          "Total_Score": 26
-        },
         "LeetCode": {
           "Username": "Rugveda_mannam",
           "Problems": {
-            "Easy": 117,
-            "Medium": 28,
+            "Easy": 119,
+            "Medium": 29,
             "Hard": 3,
-            "Total": 148
+            "Total": 151
           },
-          "Total_Score": 186,
+          "Total_Score": 190,
           "Contests Attended": 2,
           "Rating": 1368.022
         },
@@ -952,40 +983,41 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 18
+          "Total Score": 18
         },
-        "Total_Score": 238
+        "Total_Score": 198
       }
     },
     "22A91A61I9": {
       "Name": "Sri Akshaya Vangala",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61I9.jpg",
+      "Branch": "AIML",
       "Profiles": {
-        "GeeksForGeeks": {
-          "Username": "sriaksh1ls3",
-          "Coding Score": "91",
-          "Problems Solved": "26",
-          "Problems by Difficulty": {
-            "Easy": 6,
-            "Medium": 15,
-            "Hard": 2,
-            "Total": 23
-          },
-          "Total_Score": 42
-        },
         "CodeChef": {
           "error": "Failed to fetch profile",
           "Total_Score": 0
         },
+        "GeeksForGeeks": {
+          "Username": "sriaksh1ls3",
+          "Coding_Score": "103",
+          "Problems_Solved": "28",
+          "Problems_by_Difficulty": {
+            "Easy": 6,
+            "Medium": 16,
+            "Hard": 3,
+            "Total": 25
+          },
+          "Total_Score": 47
+        },
         "LeetCode": {
           "Username": "Sriakshaya29",
           "Problems": {
-            "Easy": 22,
-            "Medium": 22,
+            "Easy": 23,
+            "Medium": 24,
             "Hard": 5,
-            "Total": 49
+            "Total": 52
           },
-          "Total_Score": 81,
+          "Total_Score": 86,
           "Contests Attended": 0,
           "Rating": 0
         },
@@ -1009,60 +1041,69 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 14
+          "Total Score": 14
         },
-        "Total_Score": 137
+        "Total_Score": 133
       }
     },
     "22A91A61F8": {
       "Name": "KADIYALA SUJI GAYATRI",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61F8.jpg",
+      "Branch": "AIML",
       "Profiles": {
-        "GeeksForGeeks": {
-          "Username": "22a91alexn",
-          "Coding Score": "220",
-          "Problems Solved": "80",
-          "Problems by Difficulty": {
-            "Easy": 40,
-            "Medium": 33,
-            "Hard": 1,
-            "Total": 74
-          },
-          "Total_Score": 109
-        },
         "CodeChef": {
           "error": "Failed to fetch profile",
           "Total_Score": 0
         },
+        "GeeksForGeeks": {
+          "Username": "22a91alexn",
+          "Coding_Score": "231",
+          "Problems_Solved": "85",
+          "Problems_by_Difficulty": {
+            "Easy": 43,
+            "Medium": 34,
+            "Hard": 1,
+            "Total": 78
+          },
+          "Total_Score": 114
+        },
         "HackerRank": {
-          "Badges": [],
-          "Certifications": [],
+          "Username": "@22a91a61f8",
+          "Coding_Score": "__",
+          "Problems_Solved": "__",
+          "Problems_by_Difficulty": {
+            "Easy": 0,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 0
+          },
           "Total_Score": 0
         },
         "LeetCode": {
           "Username": "SujiGayatri",
           "Problems": {
-            "Easy": 30,
-            "Medium": 11,
+            "Easy": 34,
+            "Medium": 13,
             "Hard": 0,
-            "Total": 41
+            "Total": 47
           },
-          "Total_Score": 52,
+          "Total_Score": 60,
           "Contests Attended": 0,
           "Rating": 0
         },
-        "Total_Score": 161
+        "Total_Score": 174
       }
     },
     "22A91A61D9": {
       "Name": "Praharshitha Battina",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61D9.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "praharsv6k6",
-          "Coding Score": "2",
-          "Problems Solved": "1",
-          "Problems by Difficulty": {
+          "Coding_Score": "2",
+          "Problems_Solved": "1",
+          "Problems_by_Difficulty": {
             "Easy": 1,
             "Medium": 0,
             "Hard": 0,
@@ -1077,32 +1118,44 @@
         "LeetCode": {
           "Username": "praharshitha_3",
           "Problems": {
-            "Easy": 11,
+            "Easy": 12,
             "Medium": 0,
             "Hard": 0,
-            "Total": 11
+            "Total": 12
           },
-          "Total_Score": 11,
+          "Total_Score": 12,
           "Contests Attended": 0,
           "Rating": 0
         },
         "HackerRank": {
-          "Badges": [],
-          "Certifications": [],
+          "Username": "praharshitha3",
+          "Coding_Score": "__",
+          "Problems_Solved": "__",
+          "Problems_by_Difficulty": {
+            "Easy": 0,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 0
+          },
           "Total_Score": 0
         },
-        "Total_Score": 12
+        "Total_Score": 13
       }
     },
     "22A91A61J5": {
       "Name": "Vuppala Reshmitha Setty",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61J5.jpg",
+      "Branch": "AIML",
       "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
         "GeeksForGeeks": {
           "Username": "vuppalaresvfzu",
-          "Coding Score": "34",
-          "Problems Solved": "11",
-          "Problems by Difficulty": {
+          "Coding_Score": "34",
+          "Problems_Solved": "11",
+          "Problems_by_Difficulty": {
             "Easy": 5,
             "Medium": 6,
             "Hard": 0,
@@ -1110,19 +1163,15 @@
           },
           "Total_Score": 17
         },
-        "CodeChef": {
-          "error": "Failed to fetch profile",
-          "Total_Score": 0
-        },
         "LeetCode": {
           "Username": "reshmitha_setty_vuppala",
           "Problems": {
-            "Easy": 58,
-            "Medium": 37,
+            "Easy": 59,
+            "Medium": 38,
             "Hard": 3,
-            "Total": 98
+            "Total": 100
           },
-          "Total_Score": 149,
+          "Total_Score": 152,
           "Contests Attended": 4,
           "Rating": 1334.650735847876
         },
@@ -1150,45 +1199,31 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 20
+          "Total Score": 20
         },
-        "Total_Score": 186
+        "Total_Score": 169
       }
     },
     "22A91A61G0": {
       "Name": "AYILA NAGA JYOTHI",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G0.jpg",
+      "Branch": "AIML",
       "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
         "GeeksForGeeks": {
           "Username": "nagajyotdtoy",
-          "Coding Score": "27",
-          "Problems Solved": "10",
-          "Problems by Difficulty": {
+          "Coding_Score": "27",
+          "Problems_Solved": "10",
+          "Problems_by_Difficulty": {
             "Easy": 5,
             "Medium": 4,
             "Hard": 0,
             "Total": 9
           },
           "Total_Score": 13
-        },
-        "CodeChef": {
-          "Username": "jyothi_ayila",
-          "Star": "1\u2605",
-          "Rating": "1119",
-          "Contests Participated": 12,
-          "Total_Score": 24
-        },
-        "LeetCode": {
-          "Username": "jyothi_ayila",
-          "Problems": {
-            "Easy": 86,
-            "Medium": 27,
-            "Hard": 2,
-            "Total": 115
-          },
-          "Total_Score": 152,
-          "Contests Attended": 3,
-          "Rating": 1369.414
         },
         "HackerRank": {
           "Badges": [
@@ -1214,21 +1249,31 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 18
+          "Total Score": 18
         },
-        "Total_Score": 207
+        "LeetCode": {
+          "Username": "jyothi_ayila",
+          "Problems": {
+            "Easy": 86,
+            "Medium": 28,
+            "Hard": 2,
+            "Total": 116
+          },
+          "Total_Score": 154,
+          "Contests Attended": 3,
+          "Rating": 1369.414
+        },
+        "Total_Score": 167
       }
     },
     "22a91a6119": {
       "Name": "ILLAPU MEHAR ARUN TEJA",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22a91a6119.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "CodeChef": {
-          "Username": "Illapu Mehar Arun Teja",
-          "Star": "1\u2605",
-          "Rating": "909",
-          "Contests Participated": 9,
-          "Total_Score": 18
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
         },
         "LeetCode": {
           "Username": "MEHAR_ARUN",
@@ -1250,13 +1295,13 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 1
+          "Total Score": 1
         },
         "GeeksForGeeks": {
           "Username": "illapumeha349e",
-          "Coding Score": "71",
-          "Problems Solved": "42",
-          "Problems by Difficulty": {
+          "Coding_Score": "71",
+          "Problems_Solved": "42",
+          "Problems_by_Difficulty": {
             "Easy": 27,
             "Medium": 1,
             "Hard": 0,
@@ -1264,12 +1309,13 @@
           },
           "Total_Score": 29
         },
-        "Total_Score": 113
+        "Total_Score": 94
       }
     },
     "22A91A61C0": {
       "Name": "Vinay Tellagorla",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C0.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "CodeChef": {
           "error": "Failed to fetch profile",
@@ -1286,18 +1332,6 @@
           "Total_Score": 443,
           "Contests Attended": 10,
           "Rating": 1325.365
-        },
-        "GeeksForGeeks": {
-          "Username": "tellagorlavinay",
-          "Coding Score": "748",
-          "Problems Solved": "427",
-          "Problems by Difficulty": {
-            "Easy": 200,
-            "Medium": 73,
-            "Hard": 4,
-            "Total": 277
-          },
-          "Total_Score": 358
         },
         "HackerRank": {
           "Badges": [
@@ -1323,30 +1357,43 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 20
+          "Total Score": 20
         },
-        "Total_Score": 821
+        "GeeksForGeeks": {
+          "Username": "tellagorlavinay",
+          "Coding_Score": "748",
+          "Problems_Solved": "426",
+          "Problems_by_Difficulty": {
+            "Easy": 198,
+            "Medium": 75,
+            "Hard": 4,
+            "Total": 277
+          },
+          "Total_Score": 360
+        },
+        "Total_Score": 803
       }
     },
     "23A95A6114": {
       "Name": "TARUN SUNKARA",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/23A95A6114.jpg",
+      "Branch": "AIML",
       "Profiles": {
-        "GeeksForGeeks": {
-          "Username": "sunkaratarun",
-          "Coding Score": "384",
-          "Problems Solved": "150",
-          "Problems by Difficulty": {
-            "Easy": 70,
-            "Medium": 47,
-            "Hard": 6,
-            "Total": 123
-          },
-          "Total_Score": 182
-        },
         "CodeChef": {
           "error": "Failed to fetch profile",
           "Total_Score": 0
+        },
+        "GeeksForGeeks": {
+          "Username": "sunkaratarun",
+          "Coding_Score": "386",
+          "Problems_Solved": "151",
+          "Problems_by_Difficulty": {
+            "Easy": 71,
+            "Medium": 47,
+            "Hard": 6,
+            "Total": 124
+          },
+          "Total_Score": 183
         },
         "LeetCode": {
           "Username": "sunkaratarun9",
@@ -1379,40 +1426,41 @@
             "Certificate: Java (Basic)",
             "Certificate: Python (Basic)"
           ],
-          "Total_Score": 10
+          "Total Score": 10
         },
-        "Total_Score": 467
+        "Total_Score": 458
       }
     },
     "23A95A6115": {
       "Name": "Tamarapalli Abhiram",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/23A95A6115.jpg",
+      "Branch": "AIML",
       "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
         "GeeksForGeeks": {
           "Username": "abhiramtamarapalli",
-          "Coding Score": "103",
-          "Problems Solved": "28",
-          "Problems by Difficulty": {
+          "Coding_Score": "115",
+          "Problems_Solved": "30",
+          "Problems_by_Difficulty": {
             "Easy": 6,
-            "Medium": 17,
-            "Hard": 3,
-            "Total": 26
+            "Medium": 18,
+            "Hard": 4,
+            "Total": 28
           },
-          "Total_Score": 49
-        },
-        "CodeChef": {
-          "error": "Failed to parse profile: 'NoneType' object has no attribute 'text'",
-          "Total_Score": 0
+          "Total_Score": 54
         },
         "LeetCode": {
           "Username": "abhiram_tamarapalli",
           "Problems": {
-            "Easy": 8,
-            "Medium": 17,
+            "Easy": 9,
+            "Medium": 21,
             "Hard": 2,
-            "Total": 27
+            "Total": 32
           },
-          "Total_Score": 48,
+          "Total_Score": 57,
           "Contests Attended": 0,
           "Rating": 0
         },
@@ -1424,20 +1472,21 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 5
+          "Total Score": 5
         },
-        "Total_Score": 102
+        "Total_Score": 111
       }
     },
     "22A91A61I5": {
       "Name": "Siripuram Ganesh",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61I5.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "siripurx809",
-          "Coding Score": "__",
-          "Problems Solved": "1",
-          "Problems by Difficulty": {
+          "Coding_Score": "__",
+          "Problems_Solved": "1",
+          "Problems_by_Difficulty": {
             "Easy": 0,
             "Medium": 1,
             "Hard": 0,
@@ -1477,33 +1526,31 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 12
+          "Total Score": 12
         },
-        "Total_Score": 19
+        "Total_Score": 7
       }
     },
     "22A91A61J1": {
       "Name": "VELAGALA SURYA VIGNATEJA HANUMA  VENKATA SAIRAM REDDY",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61J1.jpg",
+      "Branch": "AIML",
       "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
         "GeeksForGeeks": {
           "Username": "5urya",
-          "Coding Score": "93",
-          "Problems Solved": "60",
-          "Problems by Difficulty": {
+          "Coding_Score": "93",
+          "Problems_Solved": "60",
+          "Problems_by_Difficulty": {
             "Easy": 25,
             "Medium": 9,
             "Hard": 2,
             "Total": 36
           },
           "Total_Score": 49
-        },
-        "CodeChef": {
-          "Username": "x4yrus",
-          "Star": "2\u2605",
-          "Rating": "1539",
-          "Contests Participated": 9,
-          "Total_Score": 18
         },
         "LeetCode": {
           "Username": "x4yrus",
@@ -1545,42 +1592,31 @@
             }
           ],
           "Certifications": ["Certificate: JavaScript (Basic)"],
-          "Total_Score": 20
+          "Total Score": 20
         },
-        "Total_Score": 315
+        "Total_Score": 277
       }
     },
     "22A91A61F3": {
       "Name": "Gottipati Srivalli",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61F3.jpg",
+      "Branch": "AIML",
       "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
         "GeeksForGeeks": {
           "Username": "login",
-          "Coding Score": "__",
-          "Problems Solved": "__",
-          "Problems by Difficulty": {
+          "Coding_Score": "__",
+          "Problems_Solved": "__",
+          "Problems_by_Difficulty": {
             "Easy": 0,
             "Medium": 0,
             "Hard": 0,
             "Total": 0
           },
           "Total_Score": 0
-        },
-        "CodeChef": {
-          "error": "Failed to fetch profile",
-          "Total_Score": 0
-        },
-        "LeetCode": {
-          "Username": "srivalli_05",
-          "Problems": {
-            "Easy": 25,
-            "Medium": 52,
-            "Hard": 11,
-            "Total": 88
-          },
-          "Total_Score": 166,
-          "Contests Attended": 2,
-          "Rating": 1437.749
         },
         "HackerRank": {
           "Badges": [
@@ -1602,20 +1638,33 @@
             }
           ],
           "Certifications": ["Certificate: SQL (Basic)"],
-          "Total_Score": 16
+          "Total Score": 16
         },
-        "Total_Score": 182
+        "LeetCode": {
+          "Username": "srivalli_05",
+          "Problems": {
+            "Easy": 25,
+            "Medium": 52,
+            "Hard": 11,
+            "Total": 88
+          },
+          "Total_Score": 166,
+          "Contests Attended": 2,
+          "Rating": 1437.749
+        },
+        "Total_Score": 166
       }
     },
     "22A91A61A6": {
       "Name": "Pantham Veera venkata durga prasad",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61A6.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "GeeksForGeeks": {
           "Username": "durgapra82ju",
-          "Coding Score": "2",
-          "Problems Solved": "1",
-          "Problems by Difficulty": {
+          "Coding_Score": "2",
+          "Problems_Solved": "1",
+          "Problems_by_Difficulty": {
             "Easy": 1,
             "Medium": 0,
             "Hard": 0,
@@ -1624,7 +1673,15 @@
           "Total_Score": 1
         },
         "CodeChef": {
-          "error": "Failed to fetch profile",
+          "Username": "prasado7",
+          "Coding_Score": "__",
+          "Problems_Solved": "__",
+          "Problems_by_Difficulty": {
+            "Easy": 0,
+            "Medium": 0,
+            "Hard": 0,
+            "Total": 0
+          },
           "Total_Score": 0
         },
         "LeetCode": {
@@ -1647,30 +1704,31 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 5
+          "Total Score": 5
         },
-        "Total_Score": 6
+        "Total_Score": 1
       }
     },
     "22A91A61G3": {
       "Name": "Lingolu Lakshmi Sowjanya",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61G3.jpg",
+      "Branch": "AIML",
       "Profiles": {
+        "CodeChef": {
+          "error": "Failed to fetch profile",
+          "Total_Score": 0
+        },
         "GeeksForGeeks": {
           "Username": "lakshmisowsqg7",
-          "Coding Score": "211",
-          "Problems Solved": "106",
-          "Problems by Difficulty": {
+          "Coding_Score": "211",
+          "Problems_Solved": "106",
+          "Problems_by_Difficulty": {
             "Easy": 43,
             "Medium": 26,
             "Hard": 2,
             "Total": 71
           },
           "Total_Score": 101
-        },
-        "CodeChef": {
-          "error": "Failed to fetch profile",
-          "Total_Score": 0
         },
         "LeetCode": {
           "Username": "lakshmisowjanya1420",
@@ -1704,30 +1762,22 @@
             }
           ],
           "Certifications": [],
-          "Total_Score": 16
+          "Total Score": 16
         },
-        "Total_Score": 181
+        "Total_Score": 165
       }
     },
     "22A91A61C3": {
       "Name": "Kamal sai Tillari",
       "Image": "https://info.aec.edu.in/AEC/StudentPhotos/22A91A61C3.jpg",
+      "Branch": "AIML",
       "Profiles": {
         "CodeChef": {
-          "error": "Failed to fetch profile",
-          "Total_Score": 0
-        },
-        "GeeksForGeeks": {
           "Username": "kamalsai369",
-          "Coding Score": "298",
-          "Problems Solved": "107",
-          "Problems by Difficulty": {
-            "Easy": 43,
-            "Medium": 33,
-            "Hard": 8,
-            "Total": 84
-          },
-          "Total_Score": 133
+          "Star": "1\u2605",
+          "Rating": "1013",
+          "Contests_Participated": 8,
+          "Total_Score": 16
         },
         "LeetCode": {
           "Username": "kamalsai",
@@ -1741,6 +1791,18 @@
           "Contests Attended": 2,
           "Rating": 1409.37
         },
+        "GeeksForGeeks": {
+          "Username": "kamalsai369",
+          "Coding_Score": "298",
+          "Problems_Solved": "107",
+          "Problems_by_Difficulty": {
+            "Easy": 43,
+            "Medium": 33,
+            "Hard": 8,
+            "Total": 84
+          },
+          "Total_Score": 133
+        },
         "HackerRank": {
           "Badges": [
             {
@@ -1752,9 +1814,9 @@
             "Certificate: Java (Basic)",
             "Certificate: CSS (Basic)"
           ],
-          "Total_Score": 5
+          "Total Score": 5
         },
-        "Total_Score": 364
+        "Total_Score": 375
       }
     }
   }
