@@ -3,7 +3,7 @@ import React from "react";
 const StdProfile = ({ selectedStudent, onClick }) => {
   if (!selectedStudent) {
     return (
-      <div className="fixed inset-0 flex items-center justify-center bg-[#00000063]">
+      <div className="fixed inset-0 flex items-center justify-center bg-[#00000063] ">
         <div className="bg-gray-800 text-white p-6 rounded-lg min-w-96 max-w-3xl text-center">
           <p className="text-xl font-bold">No student data available</p>
           <button
@@ -38,9 +38,9 @@ const StdProfile = ({ selectedStudent, onClick }) => {
           className="w-40 h-40 object-cover rounded-full mb-4 "
         />
 
-        <div className="w-full flex flex-1/3 space-x-3">
-          <div className="bg-gray-600 rounded-lg p-2 hover:bg-gray-500">
-            <p className="underline ">
+        <div className="w-full flex flex-1/3 un space-x-1.5  ">
+          <div className="bg-gray-700 p-2 rounded-md hoveWr:bg-gray-600">
+            <p className="underline">
               <strong>GeekForGeeks</strong>
             </p>
             <div className="px-5">
@@ -63,7 +63,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
               </p>
             </div>
           </div>
-          <div className="bg-gray-600 rounded-lg p-2 hover:bg-gray-500">
+          <div className=" bg-gray-700 rounded-md p-2 hover:bg-gray-600">
             <p className="underline">
               <strong>CodeChef</strong>
             </p>
@@ -82,7 +82,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
               </p>
             </div>
           </div>
-          <div className=" max-w-56 bg-gray-600 rounded-lg p-2 hover:bg-gray-500">
+          <div className=" max-w-56 bg-gray-700 p-2 rounded-md hover:bg-gray-600">
             <p className="underline">
               <strong> HackerRank</strong>
             </p>
@@ -102,12 +102,12 @@ const StdProfile = ({ selectedStudent, onClick }) => {
         </div>
         <button
           onClick={onClick}
-          className="mt-4 bg-red-500 text-white p-2 rounded w-full hover:bg-red-600 cursor-pointer"
+          className="mt-4 bg-red-500 hover:bg-red-600 text-white p-2 rounded w-full cursor-pointer"
         >
           Close
         </button>
       </div>
-      <div className="bg-gray-800 flex flex-col justify-center items-center text-white p-6 rounded-lg min-w-96 max-w-3xl">
+      <div className="bg-gray-800 flex flex-col justify-center items-center text-white p-6 rounded-lg min-w-96 max-w-xl">
         {/* Contest Rating Section */}
         <div className="bg-gray-700 p-4 rounded-lg text-center w-full mb-4">
           <p className="text-lg font-bold">Contest Rating</p>
@@ -143,7 +143,7 @@ const StdProfile = ({ selectedStudent, onClick }) => {
         </div>
 
         {/* Badges Section */}
-        <div className="bg-gray-700 p-4 rounded-lg text-center w-full mb-4 max-w-md">
+        <div className="bg-gray-700 p-4 rounded-lg text-center w-full mb-4 ">
           <p className="text-lg font-bold">Badges</p>
           <p>
             {selectedStudent.hackerrank.Badges?.map(
